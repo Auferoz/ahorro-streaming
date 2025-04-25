@@ -10,7 +10,7 @@ export const plansFibraInternetData = [
                 "price": "18990",
                 "periodicity": "/12 meses",
                 "normalPrice": "Precio normal: $22.000/mes",
-                "button": {"href": "/ContratacionStreaming?id=internet-fibra-basic"},
+                "button": {"href": "#/ContratacionStreaming?id=internet-fibra-basic"},
                 "buttonIntermedia": {"href": "https://appswls.entel.cl/ContratacionOnLineHogar/inicioContratacion?id=monoibasic&origen=internet&c2=011&tipo=f"},
                 "titleDetails": "Tu seleccion:",
                 "details": [
@@ -99,7 +99,7 @@ export const plansFibraInternetData = [
                 "price": "26990",
                 "periodicity": "/12 meses",
                 "normalPrice": "Precio normal: $30.000/mes",
-                "button": {"href": "/ContratacionStreaming?id=internet-fibra-basic-streaming"},
+                "button": {"href": "#/ContratacionStreaming?id=internet-fibra-basic-streaming"},
                 "buttonIntermedia": {"href": "https://appswls.entel.cl/ContratacionOnLineHogar/inicioContratacion?id=monoibasicott&origen=internet&tipo=f&c2=011"},
                 "titleDetails": "Tu seleccion:",
                 "appChannels": {
@@ -193,7 +193,7 @@ export const plansFibraInternetData = [
                 "price": "27990",
                 "periodicity": "/12 meses",
                 "normalPrice": "Precio normal: $36.000/mes",
-                "button": {"href": "/ContratacionStreaming?id=duo-pack-fibra-basic-tv-lite"},
+                "button": {"href": "#/ContratacionStreaming?id=duo-pack-fibra-basic-tv-lite"},
                 "buttonIntermedia": {"href": "https://appswls.entel.cl/ContratacionOnLineHogar/inicioContratacion?id=duoienteltvbasic&origen=entel&tipo=f&c2=011"},
                 "titleDetails": "Tu seleccion:",
                 "appChannels": {
@@ -288,7 +288,7 @@ export const plansFibraInternetData = [
                 "price": "39990",
                 "periodicity": "/12 meses",
                 "normalPrice": "Precio normal: $47.000/mes",
-                "button": {"href": "/ContratacionStreaming?id=duo-pack-fibra-basic-tv-full"},
+                "button": {"href": "#/ContratacionStreaming?id=duo-pack-fibra-basic-tv-full"},
                 "buttonIntermedia": {"href": "https://appswls.entel.cl/ContratacionOnLineHogar/inicioContratacion?id=duoitvbasic&origen=duo&c2=011&tipo=f"},
                 "titleDetails": "Tu seleccion:",
                 "appChannels": {

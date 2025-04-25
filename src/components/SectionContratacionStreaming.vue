@@ -304,7 +304,7 @@ const toggleButtonText = computed(() => activeToggleId.value ? "Aumentar velocid
                     EdsVariant="primary"
                     :EdsText="toggleButtonText"
                     EdsIcon=""
-                    :EdsHref="selectedPlan.cardHibrida[0].button.buttonIntermedia"
+                    :EdsHref=selectedPlan.cardHibrida[0].buttonIntermedia.href
                 />
                 
             </header>

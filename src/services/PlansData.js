@@ -10,7 +10,7 @@ export const plansFibraInternetData = [
                 "price": "18990",
                 "periodicity": "/12 meses",
                 "normalPrice": "Precio normal: $22.000/mes",
-                "button": {"href": "/ContratacionStreaming?id=internet-fibra-basic"},
+                "button": {"href": "#/ContratacionStreaming?id=internet-fibra-basic"},
                 "buttonIntermedia": {"href": "flujo-digital-fibra-600"},
                 "titleDetails": "Tu seleccion:",
                 "details": [
@@ -39,7 +39,7 @@ export const plansFibraInternetData = [
                         "price": "40990",
                         "periodicity": "/12 meses",
                         "normalPrice": "Precio normal: $50.990/mes",
-                        "button": {"href": "/internet fibra medium"},
+                        "button": {"href": "#/internet fibra medium"},
                         "buttonIntermedia": {"href": "flujo-digital-fibra-800"},
                         "details": [
                             {
@@ -99,7 +99,7 @@ export const plansFibraInternetData = [
                 "price": "26990",
                 "periodicity": "/12 meses",
                 "normalPrice": "Precio normal: $30.000/mes",
-                "button": {"href": "/ContratacionStreaming?id=internet-fibra-basic-streaming"},
+                "button": {"href": "#/ContratacionStreaming?id=internet-fibra-basic-streaming"},
                 "buttonIntermedia": {"href": "flujo-digital-fibra-600+"},
                 "titleDetails": "Tu seleccion:",
                 "appChannels": {
@@ -193,7 +193,7 @@ export const plansFibraInternetData = [
                 "price": "27990",
                 "periodicity": "/12 meses",
                 "normalPrice": "Precio normal: $36.000/mes",
-                "button": {"href": "/ContratacionStreaming?id=duo-pack-fibra-basic-tv-lite"},
+                "button": {"href": "#/ContratacionStreaming?id=duo-pack-fibra-basic-tv-lite"},
                 "buttonIntermedia": {"href": "flujo-digital-duo-600tvlite"},
                 "titleDetails": "Tu seleccion:",
                 "appChannels": {
@@ -288,7 +288,7 @@ export const plansFibraInternetData = [
                 "price": "39990",
                 "periodicity": "/12 meses",
                 "normalPrice": "Precio normal: $47.000/mes",
-                "button": {"href": "/ContratacionStreaming?id=duo-pack-fibra-basic-tv-full"},
+                "button": {"href": "#/ContratacionStreaming?id=duo-pack-fibra-basic-tv-full"},
                 "buttonIntermedia": {"href": "flujo-digital-duo-600tvfull"},
                 "titleDetails": "Tu seleccion:",
                 "appChannels": {

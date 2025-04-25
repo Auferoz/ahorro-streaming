@@ -10,8 +10,8 @@ export const plansFibraInternetData = [
                 "price": "18990",
                 "periodicity": "/12 meses",
                 "normalPrice": "Precio normal: $22.000/mes",
-                "button": {"href": "#/ContratacionStreaming?id=internet-fibra-basic"},
-                "buttonIntermedia": {"href": "flujo-digital-fibra-600"},
+                "button": {"href": "/ContratacionStreaming?id=internet-fibra-basic"},
+                "buttonIntermedia": {"href": "https://appswls.entel.cl/ContratacionOnLineHogar/inicioContratacion?id=monoibasic&origen=internet&c2=011&tipo=f"},
                 "titleDetails": "Tu seleccion:",
                 "details": [
                     {
@@ -39,8 +39,8 @@ export const plansFibraInternetData = [
                         "price": "40990",
                         "periodicity": "/12 meses",
                         "normalPrice": "Precio normal: $50.990/mes",
-                        "button": {"href": "#/internet fibra medium"},
-                        "buttonIntermedia": {"href": "flujo-digital-fibra-800"},
+                        "button": {"href": "/internet fibra medium"},
+                        "buttonIntermedia": {"href": "https://appswls.entel.cl/ContratacionOnLineHogar/inicioContratacion?id=monoimedium&origen=internet&c2=011&tipo=f"},
                         "details": [
                             {
                                 "icon": {"name": "internet"},
@@ -67,7 +67,7 @@ export const plansFibraInternetData = [
                         "periodicity": "/12 meses",
                         "normalPrice": "Precio normal: $58.990/mes",
                         "button": {"href": "/internet fibra hard"},
-                        "buttonIntermedia": {"href": "flujo-digital-fibra-940"},
+                        "buttonIntermedia": {"href": "https://appswls.entel.cl/ContratacionOnLineHogar/inicioContratacion?id=monoiadvance&origen=internet&c2=011&tipo=f"},
                         "details": [
                             {
                                 "icon": {"name": "internet"},
@@ -99,8 +99,8 @@ export const plansFibraInternetData = [
                 "price": "26990",
                 "periodicity": "/12 meses",
                 "normalPrice": "Precio normal: $30.000/mes",
-                "button": {"href": "#/ContratacionStreaming?id=internet-fibra-basic-streaming"},
-                "buttonIntermedia": {"href": "flujo-digital-fibra-600+"},
+                "button": {"href": "/ContratacionStreaming?id=internet-fibra-basic-streaming"},
+                "buttonIntermedia": {"href": "https://appswls.entel.cl/ContratacionOnLineHogar/inicioContratacion?id=monoibasicott&origen=internet&tipo=f&c2=011"},
                 "titleDetails": "Tu seleccion:",
                 "appChannels": {
                     "title": "Incluidos en tu plan:", 
@@ -134,7 +134,7 @@ export const plansFibraInternetData = [
                         "periodicity": "/12 meses",
                         "normalPrice": "Precio normal: $50.990/mes",
                         "button": {"href": "/internet fibra medium streaming"},
-                        "buttonIntermedia": {"href": "flujo-digital-fibra-800+"},
+                        "buttonIntermedia": {"href": "https://appswls.entel.cl/ContratacionOnLineHogar/inicioContratacion?id=monoimediumott&origen=internet&c2=011&tipo=f"},
                         "details": [
                             {
                                 "icon": {"name": "internet"},
@@ -161,7 +161,7 @@ export const plansFibraInternetData = [
                         "periodicity": "/12 meses",
                         "normalPrice": "Precio normal: $58.990/mes",
                         "button": {"href": "/internet fibra hard streaming"},
-                        "buttonIntermedia": {"href": "flujo-digital-fibra-940+"},
+                        "buttonIntermedia": {"href": "https://appswls.entel.cl/ContratacionOnLineHogar/inicioContratacion?id=monoiadvanceott&origen=internet&c2=011&tipo=f"},
                         "details": [
                             {
                                 "icon": {"name": "internet"},
@@ -193,8 +193,8 @@ export const plansFibraInternetData = [
                 "price": "27990",
                 "periodicity": "/12 meses",
                 "normalPrice": "Precio normal: $36.000/mes",
-                "button": {"href": "#/ContratacionStreaming?id=duo-pack-fibra-basic-tv-lite"},
-                "buttonIntermedia": {"href": "flujo-digital-duo-600tvlite"},
+                "button": {"href": "/ContratacionStreaming?id=duo-pack-fibra-basic-tv-lite"},
+                "buttonIntermedia": {"href": "https://appswls.entel.cl/ContratacionOnLineHogar/inicioContratacion?id=duoienteltvbasic&origen=entel&tipo=f&c2=011"},
                 "titleDetails": "Tu seleccion:",
                 "appChannels": {
                     "title": "Incluidos en tu plan:", 
@@ -229,7 +229,7 @@ export const plansFibraInternetData = [
                         "periodicity": "/12 meses",
                         "normalPrice": "Precio normal: $50.990/mes",
                         "button": {"href": "/duo pack fibra medium tv lite"},
-                        "buttonIntermedia": {"href": "flujo-digital-duo-800tvlite"},
+                        "buttonIntermedia": {"href": "https://appswls.entel.cl/ContratacionOnLineHogar/inicioContratacion?id=duoienteltvmedium&origen=entel&tipo=f&c2=011"},
                         "details": [
                             {
                                 "icon": {"name": "internet"},
@@ -255,7 +255,7 @@ export const plansFibraInternetData = [
                         "price": "44990",
                         "periodicity": "/12 meses",
                         "normalPrice": "Precio normal: $58.990/mes",
-                        "button": {"href": "/duo pack fibra hard tv lite"},
+                        "button": {"href": "https://appswls.entel.cl/ContratacionOnLineHogar/inicioContratacion?id=duoienteltvadvance&origen=duo&tipo=f&c2=011"},
                         "buttonIntermedia": {"href": "flujo-digital-duo-940tvlite"},
                         "details": [
                             {
@@ -288,8 +288,8 @@ export const plansFibraInternetData = [
                 "price": "39990",
                 "periodicity": "/12 meses",
                 "normalPrice": "Precio normal: $47.000/mes",
-                "button": {"href": "#/ContratacionStreaming?id=duo-pack-fibra-basic-tv-full"},
-                "buttonIntermedia": {"href": "flujo-digital-duo-600tvfull"},
+                "button": {"href": "/ContratacionStreaming?id=duo-pack-fibra-basic-tv-full"},
+                "buttonIntermedia": {"href": "https://appswls.entel.cl/ContratacionOnLineHogar/inicioContratacion?id=duoitvbasic&origen=duo&c2=011&tipo=f"},
                 "titleDetails": "Tu seleccion:",
                 "appChannels": {
                     "title": "Incluidos en tu plan:", 
@@ -326,7 +326,7 @@ export const plansFibraInternetData = [
                         "periodicity": "/12 meses",
                         "normalPrice": "Precio normal: $50.990/mes",
                         "button": {"href": "/duo pack fibra medium tv full"},
-                        "buttonIntermedia": {"href": "flujo-digital-duo-800tvfull"},
+                        "buttonIntermedia": {"href": "https://appswls.entel.cl/ContratacionOnLineHogar/inicioContratacion?id=duoitvmedium&origen=duo&c2=011&tipo=f"},
                         "details": [
                             {
                                 "icon": {"name": "internet"},
@@ -353,7 +353,7 @@ export const plansFibraInternetData = [
                         "periodicity": "/12 meses",
                         "normalPrice": "Precio normal: $58.990/mes",
                         "button": {"href": "/duo pack fibra hard tv full"},
-                        "buttonIntermedia": {"href": "flujo-digital-duo-940tvfull"},
+                        "buttonIntermedia": {"href": "https://appswls.entel.cl/ContratacionOnLineHogar/inicioContratacion?id=duoitvadvance&origen=duo&c2=011&tipo=f"},
                         "details": [
                             {
                                 "icon": {"name": "internet"},

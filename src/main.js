@@ -1,15 +1,15 @@
-import { createApp } from "vue";
-import "./style.css";
-import App from "./App.vue";
-import router from "./router"; // Agrega el import del router
+// src/main.js
+import { createApp } from 'vue'
+import App from './App.vue'
+import router from './router'
 
 if (window.location.origin.includes("localhost")) {
   window.dataLayer = window.dataLayer || [];
   console.log("dataLayer local activado");
 }
 
-const app = createApp(App);
+createApp(App)
+  .use(router)
+  .mount('#app')
 
-app.use(router); // Usa el router
 
-app.mount("#app");

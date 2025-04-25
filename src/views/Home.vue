@@ -7,6 +7,7 @@ import SectionEstrenosMax from '../components/SectionEstrenosMax.vue'
 </script>
 
 <template>
+    <SectionHeader />
     <!--  -->
     <SectionAddPlan />
     <!--  -->

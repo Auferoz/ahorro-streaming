@@ -7,7 +7,7 @@
 </script>
 
 <template>
-    <section class="p-40 bg-subcolor">
+    <section class="p-40 bg-subcolor pt-0">
         <div class="container p-0 p-lg-2">
             <div class="row">
                 <div class="col-12 col-lg-12 mb-3">

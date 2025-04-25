@@ -102,7 +102,7 @@ const toggleButtonText = computed(() => activeToggleId.value ? "Aumentar velocid
 
                     <div>
                         <p class="subtitle_2-xs subtitle_2-lg mb-2">
-                            Estás comprando
+                            Estás llevando
                         </p>
                         
                         <article class="card-section">
@@ -300,12 +300,14 @@ const toggleButtonText = computed(() => activeToggleId.value ? "Aumentar velocid
                         {{ selectedPlan.cardHibrida[0].appChannels.icon[0].text }}
                     </p>
                 
-                <Button 
-                    EdsVariant="primary"
-                    :EdsText="toggleButtonText"
-                    EdsIcon=""
-                    :EdsHref=selectedPlan.cardHibrida[0].buttonIntermedia.href
-                />
+                <footer class="d-flex justify-content-center align-items-center">
+                    <Button 
+                        EdsVariant="primary"
+                        :EdsText="toggleButtonText"
+                        EdsIcon=""
+                        :EdsHref=selectedPlan.cardHibrida[0].buttonIntermedia.href
+                    />
+                </footer>
                 
             </header>
             
